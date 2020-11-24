@@ -16,6 +16,7 @@
         "symfony/routing": "5.1.*",
         "symfony/http-foundation": "5.1.*",
         "knpuniversity/oauth2-client-bundle": "~1.0",
+        "knpuniversity/oauth2-client-bundle": "^2.5",
         "guzzlehttp/guzzle": "^6.3"
     },
     "require-dev": {
